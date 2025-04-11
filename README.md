@@ -28,7 +28,7 @@ To run Matter successfully, you **must** set the correct partition scheme due to
 
 Since matter uses a lot of program of flash memory it is imperative we allocate the right memory partitions to our board, otherwise it will not compile or run properly. I highly recommend making your own custom partition schemes as this way you can better use the ESP32's assets via Arduino framework.
 
-See on how to make custom partitions on Arduino IDE: https://youtu.be/EuHxodrye6E
+See how to make custom partitions on Arduino IDE the simple way: https://youtu.be/EuHxodrye6E
 
 1. Open Arduino IDE.
 2. Go to `Tools > Partition Scheme`.
