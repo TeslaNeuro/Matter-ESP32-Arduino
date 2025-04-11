@@ -62,6 +62,6 @@ IP address: 192.168.x.x
 Matter Node is not commissioned yet.
 Manual pairing code: 34970112345
 QR code: https://...
-
+```
 You'll have to scan or paste the QR code on a local browser connected via the same network as your ESP32. Then you just setup your matter device on apple homekit, alexa home and etc.
 
