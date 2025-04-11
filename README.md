@@ -14,7 +14,7 @@ There are example files provided by Arduino IDE as well in case you want to test
 
 - **Arduino IDE 2.x** (recommended)
 - **Any ESP32 board** (e.g., ESP32-DevKitC, ESP32 WROOM 32E, ESP32-C3)
-- **ESP32 Core v3.20+** (via Boards Manager)
+- **ESP32 v3.20+** (via Boards Manager)
 - **Matter Arduino Library** from Espressif
 - USB cable and serial monitor
 
