@@ -23,6 +23,8 @@ To run Matter successfully, you **must** set the correct partition scheme due to
 
 #### Steps:
 
+Since matter uses a lot of program of flash memory it is imperative we allocate the right memory partitions to our board, otherwise it will not compile or run properly. I highly recommend making your own custom partition schemes as this way you can better use the ESP32's assets via Arduino framework.
+
 1. Open Arduino IDE.
 2. Go to `Tools > Partition Scheme`.
 3. Select: `Huge App (3MB No OTA)`  
@@ -60,3 +62,6 @@ IP address: 192.168.x.x
 Matter Node is not commissioned yet.
 Manual pairing code: 34970112345
 QR code: https://...
+
+You'll have to scan or paste the QR code on a local browser connected via the same network as your ESP32. Then you just setup your matter device on apple homekit, alexa home and etc.
+
