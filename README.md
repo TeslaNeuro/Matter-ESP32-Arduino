@@ -9,7 +9,7 @@ Test and experimentation playground for running Matter (formerly CHIP) on ESP32 
 ### ✅ Prerequisites
 
 - **Arduino IDE 2.x** (recommended)
-- **ESP32 board** (e.g., ESP32-DevKitC, ESP32 WROOM 32E, ESP32-C3)
+- **Any ESP32 board** (e.g., ESP32-DevKitC, ESP32 WROOM 32E, ESP32-C3)
 - **ESP32 Arduino Core v2.0.11+** (via Boards Manager)
 - **Matter Arduino Library** from Espressif
 - USB cable and serial monitor
