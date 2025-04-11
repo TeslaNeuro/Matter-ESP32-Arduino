@@ -1,7 +1,6 @@
 # Matter ESP32 Playground
 
-Test and experimentation playground for running Matter (formerly CHIP) on ESP32 using the Arduino framework.  
-Use this project to explore commissioning, control endpoints, and learn Matter device basics.
+Test and experimentation playground for running Matter (formerly CHIP) on ESP32 using the Arduino framework. Use this project to explore commissioning, control endpoints, and learn Matter device basics.
 
 ---
 
