@@ -2,6 +2,8 @@
 
 Test and experimentation playground for running Matter Protocol (formerly CHIP) on ESP32 using the Arduino framework. Use this project to explore commissioning, control endpoints, and learn Matter device basics.
 
+There are example files provided by Arduino IDE as well in case you want to test them first.
+
 ![image](https://github.com/user-attachments/assets/9e614d6d-5294-4fcf-a9f3-1c639e8970fc)
 
 ---
