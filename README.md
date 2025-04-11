@@ -64,4 +64,4 @@ QR code: https://...
 ```
 You'll have to scan or paste the QR code on a local browser connected via the same network as your ESP32. Then you just setup your matter device on apple homekit, alexa home and etc.
 
-Given matter uses a lot of memory space in program memory or flash memory due to a large binary associated with the Matter arduino library I highly recommend to scale above 8MB of flash memory, to future proof memory limitations for possible development work.
+Since Matter uses a significant amount of flash memory due to the large binary size of the Matter Arduino library, I highly recommend using a chip with at least 8MB of flash to future-proof against memory limitations during development.
