@@ -48,7 +48,6 @@ See how to make custom partitions on Arduino IDE the simple way: https://youtu.b
 | **Partition Scheme** | Huge App (3MB No OTA)     |
 | **Flash Frequency** | 80 MHz                      |
 | **Upload Speed**    | 921600 (or 115200 if unstable) |
-| **Core Debug Level**| None                        |
 
 ---
 
