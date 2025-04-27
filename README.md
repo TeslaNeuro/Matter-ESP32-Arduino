@@ -22,7 +22,7 @@ There are more example files provided by Arduino IDE as well in case you want to
 
 ### ⚙️ 1. Set Partition Scheme to "Huge App"
 
-To run Matter successfully, you **must** set the correct partition scheme due to binary size.
+To run Matter successfully, you **must** set the correct partition scheme due to it's binary size.
 
 #### Steps:
 
